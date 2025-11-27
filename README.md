@@ -1,1 +1,1 @@
-# 8-bit-CPU-JS-own-arch
+# 4-bit-CPU-JS-own-arch
